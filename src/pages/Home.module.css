@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: linear-gradient(#e66465, #9198e5);
+  height: 100vh;
+  width: 100vw;
+}
