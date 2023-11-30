@@ -14,6 +14,12 @@ export default {
       margin: {
         '70px': '70px',
       },
+      borderRadius: {
+        extraLarge: '12rem',
+      },
+      colors: {
+        rightyell: '#FFBB5C',
+      },
     },
   },
   plugins: [],

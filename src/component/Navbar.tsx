@@ -14,12 +14,13 @@ const Navbar = () => {
           <a href="/" className="font-normal text-2xl p-4 mt-2">
             Home
           </a>
-          <a href="#about" className="font-normal text-2xl p-4 mt-2">
-            About me
+
+          <a href="#About" className="font-normal text-2xl p-4 mt-2">
+            Journey
           </a>
-          <a href="/project" className="font-normal text-2xl p-4 mt-2">
+          {/* <a to="/" className="font-normal text-2xl p-4 mt-2">
             Projects
-          </a>
+          </a> */}
         </div>
       </nav>
     </>

@@ -10,11 +10,7 @@
 }
 
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  width: 100vw;
+  background-color: #004225;
 }
 /* h1 {
   color: #333;
