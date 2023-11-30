@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <>
@@ -12,15 +11,16 @@ const Navbar = () => {
           </span>
         </div>
         <div className="flex justify-between item-center flex-shrink-0 text-white mr-6">
-          <Link to="/" className="font-normal text-2xl p-4 mt-2">
+          <a href="/" className="font-normal text-2xl p-4 mt-2">
             Home
-          </Link>
-          <Link to="/" className="font-normal text-2xl p-4 mt-2">
-            About me
-          </Link>
-          <Link to="/" className="font-normal text-2xl p-4 mt-2">
+          </a>
+
+          <a href="#About" className="font-normal text-2xl p-4 mt-2">
+            Journey
+          </a>
+          {/* <a to="/" className="font-normal text-2xl p-4 mt-2">
             Projects
-          </Link>
+          </a> */}
         </div>
       </nav>
     </>

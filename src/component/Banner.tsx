@@ -6,7 +6,11 @@ const Banner = () => {
       {' '}
       <div className="flex justify-between mt-16">
         <div className="mt-9 p-4 mr-10">
-          <img className="object-cover rounded-full h-96 w-80 drop-shadow-3xl  " src="/src/assets/parn.JPG" alt="" />
+          <img
+            className="hover:animate-pulse object-cover rounded-full h-96 w-80 drop-shadow-3xl  "
+            src="/src/assets/parn.JPG"
+            alt=""
+          />
         </div>
         <div className="mt-7">
           <div className="flex justify-center font-body mt-[70px]">

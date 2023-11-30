@@ -1,11 +1,13 @@
 import Aboutme from '../component/Aboutme'
 import Banner from '../component/Banner'
+import Tech from '../component/Tech'
 
 const Home = () => {
   return (
     <>
-      <Aboutme />
       <Banner />
+      <Aboutme />
+      <Tech />
     </>
   )
 }
