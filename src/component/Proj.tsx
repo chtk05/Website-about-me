@@ -7,7 +7,7 @@ const Proj = () => {
       <h1 className="text-4xl mb-16 mt-16  drop-shadow-4xl font-extrabold flex justify-center">Projects</h1>
       <div className="grid grid-cols-2 gap-6 max-h-min mt-16 ">
         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow  hover:bg-gray-100 group hover:shadow transform transition duration-500 hover:scale-110">
-          <img className="rounded-t-lg h-56 mx-auto" src="/public/studywithcoffee-preview.png" alt="" />
+          <img className="rounded-t-lg h-56 mx-auto" src="studywithcoffee-preview.png" alt="" />
 
           <div className="p-5">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">TODO APP</h5>
@@ -106,7 +106,7 @@ const Proj = () => {
         </div> */}
       </div>
       <a href="https://github.com/chtk05?tab=repositories">
-        <h1 className="text-2xl mb-16 mt-10  drop-shadow-3xl font-bold flex justify-center text-slate-50 hover:underline` transform transition duration-500 hover:scale-110">
+        <h1 className="text-2xl mb-16 mt-10  drop-shadow-3xl font-bold flex justify-center text-slate-50 hover:underline transform transition duration-500 hover:scale-110">
           Finds out more project at <img className="drop-shadow-3xl w-10 h-10 ml-4 " src="9919.png" alt="" />
         </h1>
       </a>
