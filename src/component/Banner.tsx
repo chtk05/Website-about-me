@@ -8,7 +8,7 @@ const Banner = () => {
         <div className="mt-9 p-4 mr-10">
           <img
             className="hover:animate-pulse object-cover rounded-full h-96 w-80 drop-shadow-3xl  "
-            src="/src/assets/parn.JPG"
+            src="parn.JPG"
             alt=""
           />
         </div>

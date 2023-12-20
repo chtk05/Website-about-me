@@ -1,9 +1,7 @@
-import { Divider } from 'antd'
 const Aboutme = () => {
   return (
     <div className="box-border w-full h-full">
-      <Divider />
-      <div id="About" className=" flex justify-center mt-36 ">
+      <div id="Journey" className=" flex justify-center mt-36 ">
         <div className="flex justify-center rounded-tl-extraLarge rounded-br-3xl  bg-rightyell w-1/4 h-32 ">
           <h4 className="text-5xl mt-10  justify-center items-center mx-auto text-black drop-shadow-xl font-bold">
             Journey
